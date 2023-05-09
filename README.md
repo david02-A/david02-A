@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @david02-A
 - 👀 I’m interested in Coding, Ui/Ux, and adminstration
 - 🌱 I’m currently learning Ui/Ux
-- 💞️ I’m looking to collaborate on being a designer or an administrator
+- 💞️ I’m looking to collaborate on being programmer or a designer,an administrator
 - 📫 How to reach by mail (ayenidavid19@gmail.com). you can also reach me on whatsapp or calls +2349054591465
 
 <!---
